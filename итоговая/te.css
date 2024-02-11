@@ -161,6 +161,7 @@ body {
 
       .subtext {
         font-size: 2rem;
+        margin-left: -5px;
       }
 
       .quote {
