@@ -48,6 +48,10 @@ body {
   text-decoration: none;
 }
 
+.text-overlay a {
+  text-decoration: none;
+}
+
 .subtext {
     color: black;
       display: flex;
