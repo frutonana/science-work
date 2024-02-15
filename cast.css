@@ -3,14 +3,11 @@ html, body {
   margin: 0;
 }
 
-<<<<<<< HEAD
 @font-face {
   font-family: Abril Fatface; /* Гарнитура шрифта */
   src: url(AbrilFatface-Regular.ttf); /* Путь к файлу со шрифтом */
  }
 
-=======
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
 body {
      font-family: 'Abril Fatface', serif;
     margin: 0;
@@ -74,11 +71,7 @@ body {
   
   #name {
     font-size: 3rem;
-<<<<<<< HEAD
     margin-top: 3px;
-=======
-    margin-top: 13px;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
   }
   
   a {
@@ -105,17 +98,12 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     margin-top: 200px;
-<<<<<<< HEAD
     text-align: center;
   }
 
 .cast figcaption {
   text-align: center;
 }
-=======
-  }
-
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
 
 #cast h2 {
     font-size: 24px;
