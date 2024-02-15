@@ -19,19 +19,11 @@ body {
   flex-direction: column;
   background-color: black;
   font-weight: 200;
-<<<<<<< HEAD
-  width: auto;
-  }
-
-  header {
-    height: 150px;
-=======
   }
 
   header {
     height: 125px;
     width: 100%;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
     background-color: black;
     text-decoration: none;
   }
@@ -71,10 +63,6 @@ body {
     }
 
   .container {
-<<<<<<< HEAD
-=======
-    max-width: 960px;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
     margin: 0 auto;
     padding: 20px;
   }
@@ -104,10 +92,6 @@ body {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   font-size: 2rem;
   margin-left: 20px;
-<<<<<<< HEAD
-  margin-top: -10px;
-=======
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
 }
 
 .text-overlay a {
