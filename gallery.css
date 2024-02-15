@@ -3,14 +3,11 @@ html, body {
   margin: 0;
 }
 
-<<<<<<< HEAD
 @font-face {
   font-family: Abril Fatface; /* Гарнитура шрифта */
   src: url(AbrilFatface-Regular.ttf); /* Путь к файлу со шрифтом */
  }
 
-=======
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
     margin: 0;
@@ -55,10 +52,6 @@ body {
     }
 
   .container {
-<<<<<<< HEAD
-=======
-    max-width: 960px;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
     margin: 0 auto;
     padding: 20px;
   }
@@ -68,7 +61,6 @@ body {
   }
   
   header {
-<<<<<<< HEAD
     height: 80px;
     width: 100%;
     background-color: black;
@@ -113,42 +105,6 @@ body {
     color: white;
   }  
 
-=======
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 20px;
-    text-align: center;
-    margin-right: 200px;
-  }
-  
-  .sidebar {
-    width: 200px;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-    padding: 20px;
-  }
-  
-  .sidebar ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-direction: row;
-  }
-  
-  .sidebar li {
-    margin-right: 10px;
-    padding: 5px;
-  }
-  .sidebar li:first-child {
-    white-space: nowrap;
-  }
-  .sidebar a {
-    color: white;
-    text-decoration: none;
-  }
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
   .center {
     flex-grow: 1;
     text-align: center;
@@ -159,27 +115,13 @@ body {
     font-size: 24px;
   }
   
-<<<<<<< HEAD
-=======
-  
- /* Стили для подвала */
-  footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-  }
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
   .gallery {
     display: flex;
     flex-wrap: wrap;
     height: 100%;
     text-align: center;
     justify-content: center;
-<<<<<<< HEAD
     margin-top: 50px;
-=======
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
   }
   .gallery img {
     width: 250px;
@@ -226,7 +168,6 @@ body {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
-<<<<<<< HEAD
   }
 
   footer {
@@ -238,6 +179,4 @@ body {
     font-size: x-large;
     margin-top: auto;
     font-family:'Abril Fatface', serif;
-=======
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
   }
