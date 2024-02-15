@@ -15,10 +15,6 @@ body {
     padding: 0;
     display: flex;
   flex-direction: column;
-<<<<<<< HEAD
-=======
-  background-color: black;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
   }
 
   #video-background {
@@ -59,18 +55,10 @@ body {
     color: black;
       display: flex;
         flex-wrap: wrap;
-<<<<<<< HEAD
-=======
-        justify-content: center;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
         margin-top: 10px;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
-<<<<<<< HEAD
-=======
-        margin-left: -5px;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
     }
   
 
@@ -124,10 +112,6 @@ body {
 
       .subtext {
         font-size: 1.2rem;
-<<<<<<< HEAD
-=======
-        margin-left: -10px;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
       }
 
       .quote {
@@ -143,10 +127,6 @@ body {
       .subtext {
         font-size: 1.5rem;
         margin-top: 10px;
-<<<<<<< HEAD
-=======
-        margin-left: -10px;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
       }
 
       .quote {
@@ -161,11 +141,7 @@ body {
 
       .subtext {
         font-size: 1.8rem;
-<<<<<<< HEAD
         margin-left: -1px;
-=======
-        margin-left: -10px;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
       }
 
       .quote {
@@ -180,10 +156,6 @@ body {
 
       .subtext {
         font-size: 2rem;
-<<<<<<< HEAD
-=======
-        margin-left: -5px;
->>>>>>> 02b755ead77bea71ec002a8775eb5775da2efa3d
       }
 
       .quote {
