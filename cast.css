@@ -20,7 +20,7 @@ body {
   header {
     height: 68px;
     width: 100%;
-    color: black;
+    background-color: black;
   }
 
   @media (min-width: 768px) {
@@ -140,7 +140,8 @@ body {
 
   /* Стили для подвала */
   footer {
-    color: black;
+    background-color: black;
+    color: #fff;
     text-align: center;
     height: 80px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
