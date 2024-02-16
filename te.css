@@ -149,7 +149,7 @@ body {
       }
     }
 
-    @media (min-width: 1382px) {
+    @media (min-width: 1440px) {
       #text-overlay {
         font-size: 5rem;
       }
