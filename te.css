@@ -203,4 +203,58 @@ body {
       }
       
     }
+
+    @media (width: 1024px) {
+      #text-overlay {
+        position: fixed;
+        top: 60%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+        font-size: 6rem;
+        font-family: 'Abril Fatface', serif;
+        color: black;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        margin-bottom: -10px;
+        width: 525px;
+        text-decoration: none;
+        margin-right: 30px;
+      }
+      
+      .text-overlay a {
+        text-decoration: none;
+      }
+      
+      .subtext {
+          color: black;
+            display: flex;
+              flex-wrap: wrap;
+              margin-top: 10px;
+              white-space: nowrap;
+              overflow: hidden;
+              text-overflow: ellipsis;
+              font-size: 2rem;
+
+          }
+        
+      
+      .subtext a {
+        color: black;
+        text-decoration: none;
+      }
+      
+      .quote {
+        position: fixed;
+        top: 60%;
+        left: 75%;
+        transform: translate(-50%, -50%);
+        font-family: 'Abril Fatface', serif;
+        color: black;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        margin-bottom: -10px;
+        font-size: 2rem;
+        margin-top: 2rem;
+      
+      }
+      
+    }
    
