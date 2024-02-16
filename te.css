@@ -134,20 +134,7 @@ body {
       }
     }
 
-    @media (min-width: 992px) and (max-width: 1381px) {
-      #text-overlay {
-        font-size: 4.5rem;
-      }
-
-      .subtext {
-        font-size: 1.8rem;
-        margin-left: -1px;
-      }
-
-      .quote {
-        font-size: 1.5rem;
-      }
-    }
+    
 
     @media (min-width: 1440px) {
       
