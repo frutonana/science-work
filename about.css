@@ -64,7 +64,6 @@ body {
     @media (min-width: 1400px) {
       header{
           height: 125px;
-          background-color: black;
           text-decoration: none;
       }
     }
