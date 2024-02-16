@@ -18,11 +18,7 @@ body {
   }
 
   header {
-<<<<<<< Updated upstream
     height: 80px;
-=======
-    height: 75px;
->>>>>>> Stashed changes
     width: 100%;
     background-color: black;
     text-decoration: none;
